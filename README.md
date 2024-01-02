@@ -48,12 +48,22 @@
 ###   3.	Move the z-axis slider or enter the value (within the given range) in the given text box and press/select ENTER. Now observe the movement of the z-axis assembly.
 
 ## OUTPUT
-![image](https://github.com/Virumaaharish/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/146074950/e62c12d2-951a-4476-b0c8-743308b12001)
+![Screenshot 2024-01-02 203434](https://github.com/Virumaaharish/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/146074950/dbdbcceb-3cde-44db-9678-fa672b8f6171)
+![Screenshot 2024-01-02 203450](https://github.com/Virumaaharish/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/146074950/907af245-47d3-464b-b3ed-1c2dac2ef5d6)
+
+![Screenshot 2024-01-02 203457](https://github.com/Virumaaharish/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/146074950/e935de16-4cbb-44db-81cf-896736f9385b)
+![Screenshot 2024-01-02 203506](https://github.com/Virumaaharish/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/146074950/fb038148-ac9e-4c42-9878-03c5dd7f50b3)
+![Screenshot 2024-01-02 203030](https://github.com/Virumaaharish/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/146074950/a9f53060-730c-4cac-9a8b-0e5f08daeb9e)
+
 
 ## Output:
 
-### Name: 
-### Register Number:
+
+![Screenshot 2024-01-02 203030](https://github.com/Virumaaharish/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/146074950/fe97c49a-36dd-4368-bacc-a6d233e27571)
+
+
+### Name:Virumaa harish.M
+### Register Number:23013147
 
 ## Result: 
 ### Thus the simulation on construction of cartesian 3D printer is completed & movement of axis along X, Y, & Z has been studied.
